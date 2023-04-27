@@ -1,0 +1,210 @@
+
+
+A Importância da Informatização e da Acessibilidade para o Processo de Avaliação de Desempenho
+na UFMT
+
+
+Analisa UFG - Plataforma de Análise de Dados da UFG 
+
+
+Análise de dados da telefonia fixa e móvel com Pentaho
+
+
+Aplicação de Testes Automáticos com Selenium WebDriver: Um Relato de Experiência no SIGAA
+
+
+Aplicativo Siga UFMG: Relato de Experiência no Centro de Computação da UFMG
+
+
+Avaliação do Uso da Internet sem fio pelos usuários da UFAM a partir do Reconhecimento de Entidades
+no Twitter
+
+
+Case de implantação modularizada do GLPI com foco na satisfação do usuário final
+
+
+Caso de migração de telefonia: a partir de uma plataforma proprietária para uma solução VoIP com
+software livre
+
+
+Catálogo de Serviços: facilitando o acesso aos serviços de TI dentro das Instituições
+de Ensino Superior
+
+
+Da Virtual Machine ao Container as a Service: Tornando os Sistemas Integrados de Gestão compatíveis com
+os novos paradigmas de computação em nuvem
+
+
+Democratização do Acesso à Informação na UFS: APISistemas e Desenvolvimento Móvel Multiplataforma
+com Flutter
+
+
+Do Papel ao Digital Implantação de Sistema de Protocolo Digital
+
+
+DWD12 - Um método para criação de senhas seguras e memorizáveis
+
+
+Entregando recursos para aplicações multiplataforma com a API UFRGS
+
+
+Ferramenta para facilitar a comunicação do Plano de Desenvolvimento Institucional
+
+
+Funcionalidade para logoff da autenticação do Firewall da Palo Alto na UFPI
+
+
+Gerenciamento de Logs: Implantação do Graylog como ferramenta de centralização de logs de dados na
+Universidade Federal do Amazonas
+
+
+Carneiro
+GESCON: Agilidade e transparência na gestão dos órgãos colegiados da universidade
+
+
+Iftopper - Controle Dinâmico de Largura de Banda
+
+
+Implantação automatizada de sítios institucionais com uso de Docker, Git e Jenkins
+
+
+Implantação da rede sem fio na UFCA
+
+
+Implantação do Serviço Eduroam na UFAM
+
+
+Martinez
+Integração das Bases de Login e Senha dos Sistemas da Universidade de Brasília - UnB
+
+
+Integração entre LDAP e FreePBX para controle de autorização de chamadas
+
+
+Melhoria Organizacional com Base no Grau de Felicidade dos Colaboradores
+
+
+Método Push de atribuição de tarefas utilizado no desenvolvimento de software por um time
+autogerenciável
+
+
+Moodle: Arquitetura redundante e escalável para alta demanda de acesso
+
+
+O uso de containers e máquinas virtuais para a otimização de custos e serviços no Governo Federal. Uma
+análise comparativa
+
+
+Benedito
+O Uso de Micro Serviços no desenvolvimento de sistemas nas Universidades e seus benefícios: um estudo de
+caso
+
+
+O uso prático do traffic control (tc) para evitar o colapso de links de Internet em regiões próximas a áreas
+residenciais
+
+
+Padronização de tipos de documentos: um passo na direção da desburocratização
+
+
+Planejamento de Projetos Utilizando Uma Ferramenta Baseada no Modelo PMC (Project Model Canvas)
+
+
+
+
+Portal de Dados Abertos UFG
+
+
+Portal de Integração UFG - APIs de serviços para integração de dados e sistemas
+
+
+Processo de gerenciamento de riscos: um relato sobre a experiência da STI/UFF 
+
+
+Relato de Experiência: implantação de um sistema de documentação e gestão das redes de comunicação da
+Universidade Federal de Mato Grosso 
+
+
+SeBaHo Juntando o Util ao Necessário Serviço de Backup, Restore e Homologação de Base de Dados
+
+
+SINAPSE: Sistema Integrado de Acompanhamento de Projetos e Serviços
+
+
+SisPAC – Sistema para Levantamento e Consolidação das Necessidades do PAC 
+
+
+Sistema Eletrônico de Informações (Sei!): um estudo sobre a melhoria dos serviços públicos com apoio da
+inovação em processos
+
+
+Transformação de Projetos de Sistemas de Informação da UTFPR Através de Frameworks Modernos
+
+
+UFPB-Sentinela: Um Sistema de Segurança para a Cidade Universitária
+
+
+Uma Análise das faturas de telefonia fixa da UFMT utilizando ferramentas gratuitas de ETL e Business
+Intelligence
+
+
+Uma solução de automatização no processo de pagamento de bolsas de auxílio
+
+
+Universidade Digital: Gerenciamento de Ordem de Serviço
+
+
+Universidade Digital: preservando e disponibilizando a produção científica através do Repositório
+Institucional
+
+
+Utilização da Central de Ajuda para a Tecnologia da Informação: Estratégias para Auxílio ao Usuário
+
+
+Utilização de Serviço de Registro, Autenticação e Preservação de Documentos para a Emissão de Diplomas
+Digitais
+
+
+Utilizando a Gestão de Conhecimento para facilitar o desenvolvimento em projetos de software
+
+
+Análise do Processo de Interações Acadêmicas Através do Mapeamento de Fluxo de Valor na UFRGS
+
+
+Aplicação da Gestão de Processos em uma Instituição Federal de Ensino Superior: o caso da Divisão de
+Orçamento da UFERSA
+
+
+Aplicação de BPM na gestão do TED estabelecido entre o INCRA e a UFMT
+
+
+Execução de Melhoria Contínua Baseado em BPMN e Indicadores na Gestão de Serviços de TIC: Estudo de
+caso na Diretoria de Sistemas do NTI/UFPE
+
+
+Grau de Maturidade em Processos: um estudo da evolução da Gestão por Processos na UFJF
+
+
+Implementação de novo fluxo de processo: case aula de campo da UFMT
+
+
+Garcia
+Incorporando a Gestão de Riscos à Gestão por Processos na Universidade Federal
+de Santa Maria - UFSM 
+
+
+Melhoria do Processo de Pagamento de Fornecedores do Restaurante Universitário da UFRGS
+
+
+Modelo de Maturidade em Mapeamento de Processos (M3P): Proposta e Aplicação na UFCSPA
+
+
+Monitoramento de indicadores de processos com uso de Business Intelligence (BI)
+
+
+Cardozo
+O mapeamento de processos como elemento facilitador no levantamento e elicitação de requisitos do
+Sistema de Gestão da Universidade Federal de Juiz de Fora 
+
+
+Processo de Criação de um Novo Regulamento de Graduação Essencial para a Implantação do SIGAA

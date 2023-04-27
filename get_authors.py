@@ -2,11 +2,10 @@ import re
 import pandas
 
 
-## AINDA NÃO FUNCIONA!!!
-query = r"\n([\W\w]*?)(\.\.)" ##\n([\W\w]*?)\.\.
-# query = r"Resumo([\S\s]*?)1. I"
+
+query = r"\n([\W\w]*?)(\.\.)" 
 pattern = re.compile(query)
-# remove_pattern = re.compile(r"1.([\w\W])*")
+
 
 text = ''
 
@@ -71,13 +70,26 @@ with open("Autores.txt", "r") as arquivo:
 
 with open("Autores.txt", "w") as arquivo:
  arquivo.write(text)
-# # Replace the target string
-# filedata = filedata.replace('|', '')
 
-# # Write the file out again
-# with open('Autores.txt', 'w') as file:
-#   file.write(filedata)
-
-# print (filedata)  
 
 print('Done')
+
+
+with open("sumario_formatado.txt", "r") as arquivo:
+    titulos = arquivo.read()
+
+i = 0;
+
+print(list_items2[i])
+titulo=list_items2[0]
+t=" "
+while(i<len(list_items2)):
+       print (i)
+       titulo=list_items2[i]
+       titulos= titulos.replace(titulo, "")
+       i=i+1
+   
+
+titulos= titulos.replace("|", "")
+with open("Titulos.txt", "w") as arquivo:
+ arquivo.write(titulos)
