@@ -1,0 +1,150 @@
+A Aplicação de Tecnologias Ágeis no Desenvolvimento de Sistemas de Apoio Administrativo .............................. 10
+Daniel A. Moura, Jose O. da Silva, Reginaldo S. dos Anjos e Lígia M. C. Sousa
+A Importância da Informatização e da Acessibilidade para o Processo de Avaliação de Desempenho
+na UFMT........................................................................................................................................................................ 16
+João V. B. Viana, Delvan L. de Souza, Sandra A. R. dos Santos, Raphael P. Ferreira e Eunice P. dos S. Nunes
+Analisa UFG - Plataforma de Análise de Dados da UFG ............................................................................................. 22
+Victor G. Bento, Ricardo H. D. Borges, Rogério R. Carvalho e Dannyel C. Fonseca
+Análise de dados da telefonia fixa e móvel com Pentaho.......................................................................................... 28
+Luiz F. S. Arcenio
+Aplicação de Testes Automáticos com Selenium WebDriver: Um Relato de Experiência no SIGAA......................... 35
+Alan B. de Pontes, Anne C. O. Rocha e Raphael F. de A. Patrício
+Aplicativo Siga UFMG: Relato de Experiência no Centro de Computação da UFMG................................................. 41
+Patrícia N. Silva e Rainer Couto
+Avaliação do Uso da Internet sem fio pelos usuários da UFAM a partir do Reconhecimento de Entidades
+no Twitter..................................................................................................................................................................... 47
+Rodrigo A. Costa
+Case de implantação modularizada do GLPI com foco na satisfação do usuário final............................................ 53
+Elton P. Rosa
+Caso de migração de telefonia: a partir de uma plataforma proprietária para uma solução VoIP com
+software livre................................................................................................................................................................ 59
+Geovano L. Quatrin, Volnei D. Pol e Diego S. Junges
+Catálogo de Serviços: facilitando o acesso aos serviços de TI dentro das Instituições
+de Ensino Superior.......................................................................................................................................... 65
+Marcelo A. Santana, Italo C. L. Silva, Rômulo N. de Oliveira, Marcos J. F. Neto e João B. G. Silva
+Da Virtual Machine ao Container as a Service: Tornando os Sistemas Integrados de Gestão compatíveis com
+os novos paradigmas de computação em nuvem........................................................................................... 71
+Jeysibel de S. Dantas e Raphael F. de A. Patrício
+Democratização do Acesso à Informação na UFS: APISistemas e Desenvolvimento Móvel Multiplataforma
+com Flutter...................................................................................................................................................... 76
+Alan Passos e Leonardo Bezerra
+Do Papel ao Digital Implantação de Sistema de Protocolo Digital................................................................. 82
+Marlos Ribeiro, Renato Mendes e Walter Santos
+DWD12 - Um método para criação de senhas seguras e memorizáveis.......................................................... 87
+Cárlisson B. T. Galdino, Rômulo N. de Oliveira e Raiela Quirino Lima
+Entregando recursos para aplicações multiplataforma com a API UFRGS..................................................... 93
+Abel Corrêa Dias, Felipe Ávila dos Santos e Thiago Stein Motta
+Ferramenta para facilitar a comunicação do Plano de Desenvolvimento Institucional................................. 99
+Ana Carla Macedo da Silva e Diogo Benassuly
+Funcionalidade para logoff da autenticação do Firewall da Palo Alto na UFPI.............................................. 105
+Filipe S. Viana, Ênio R. Viana e Diego F. M. Oliveira
+Gerenciamento de Logs: Implantação do Graylog como ferramenta de centralização de logs de dados na
+Universidade Federal do Amazonas................................................................................................................ 110
+Crisley P. Linhares, Gerson B. da Silva1, João G. A. Martinez, Vanderson da S. Rocha, Marckson M. da Silva, João B. L.
+Carneiro
+GESCON: Agilidade e transparência na gestão dos órgãos colegiados da universidade................................ 116
+Vanderlin A. P. Júnior, Alexsandro C. Carvalho e Lidiane C. Silva
+Iftopper - Controle Dinâmico de Largura de Banda........................................................................................ 122
+Eduardo M. Monks e Jeronimô F. N. da Rosa
+Implantação automatizada de sítios institucionais com uso de Docker, Git e Jenkins.................................. 128
+João G. A. Martinez, Gérson B. da Silva e Diogo Soares
+Implantação da rede sem fio na UFCA............................................................................................................ 133
+Taciano P. de A Alcântara, Marcos I. F. M. da Silva e Herbert N. Onofre
+Implantação do Serviço Eduroam na UFAM.................................................................................................... 140
+Marckson M. da Silva, Vanderson da S. Rocha, Crisley P. Linhares, Gerson B. da Silva, João B. L. Carneiro e João G. A.
+Martinez
+Integração das Bases de Login e Senha dos Sistemas da Universidade de Brasília - UnB.............................. 145
+Renato C. Ribeiro e Everton de V. Agilar
+Integração entre LDAP e FreePBX para controle de autorização de chamadas.............................................. 151
+Eliézer de Siqueira e Weber S. R. Takaki
+Melhoria Organizacional com Base no Grau de Felicidade dos Colaboradores.............................................. 157
+Teresa M. M. Maciel e Suzanna Sandes
+Método Push de atribuição de tarefas utilizado no desenvolvimento de software por um time
+autogerenciável.............................................................................................................................................. 164
+Danniel Rocha, Euclydes Melo, Luiz Fernando, Marcos Raniere, Matheus Souza e Taison Almeida
+Moodle: Arquitetura redundante e escalável para alta demanda de acesso.................................................. 170
+André V. F. Sousa, Edmilson A. do Nascimento, Gustavo P. G. dos Santos e Michel P. Andrade
+O uso de containers e máquinas virtuais para a otimização de custos e serviços no Governo Federal. Uma
+análise comparativa........................................................................................................................................ 176
+Felipe C. Costa Alves, Jean Caminha, Renan Susuki, Allan Gonçalves, Hernane Junior, Tierry Lincoln e Roberto
+Benedito
+O Uso de Micro Serviços no desenvolvimento de sistemas nas Universidades e seus benefícios: um estudo de
+caso................................................................................................................................................................. 182
+Tales M. Machado, Frederico A. de C. A. Gonçalves, Abelard R. Fernandes e Tiago R. Chaves
+O uso prático do traffic control (tc) para evitar o colapso de links de Internet em regiões próximas a áreas
+residenciais..................................................................................................................................................... 188
+Rômulo N. de Oliveira,, Deive F. V. Gomes, Carlos R. A. da Silva e Icaro dos S. Silva
+Padronização de tipos de documentos: um passo na direção da desburocratização.................................... 194
+Cléber M. Tavares, Diogo G. Pereira, Eliara M. Tavares, Gustavo F. Afonso, José R. P. Ribeiro e Michel L. Alves
+Planejamento de Projetos Utilizando Uma Ferramenta Baseada no Modelo PMC (Project Model Canvas)... 200
+Daniel Biasoli e Ocimar Luiz ZolinPoC RNP/UFG: Implantação do G Suite por meio da adesão ao serviço da Plataforma Nasnuvens/RNP....... 206
+Igor R. Vieira, Jean T. Lima e Ricardo H. D. Borges
+Portal de Dados Abertos UFG.......................................................................................................................... 212
+Bruno N. Machado, Jhonny L.Cabral, Juarez E. Lima e Ricardo H. D. Borges
+Portal de Integração UFG - APIs de serviços para integração de dados e sistemas........................................ 218
+Andrey E. da Silva, Bruno N. Machado, Jhonny L. Cabral, Juarez E. Lima, Lauro R. Gomides e Ricardo H. D. Borges
+Processo de gerenciamento de riscos: um relato sobre a experiência da STI/UFF ........................................ 224
+Núbia dos S. R. S. dos Santos e Henrique O. U. P. de Souza
+Relato de Experiência: implantação de um sistema de documentação e gestão das redes de comunicação da
+Universidade Federal de Mato Grosso ............................................................................................................ 230
+Willdson G. de Almeida, Jeison G. dos Santos e Jonata B. M. dos Santos
+SeBaHo Juntando o Util ao Necessário Serviço de Backup, Restore e Homologação de Base de Dados...... 236
+Guilherme Geronimo e Gustavo Tonini
+SINAPSE: Sistema Integrado de Acompanhamento de Projetos e Serviços................................................... 245
+Danniel Rocha, Euclydes Melo, Luiz Fernando, Marcos Raniere, Matheus Campanhã e Taison Almeida
+SisPAC – Sistema para Levantamento e Consolidação das Necessidades do PAC ......................................... 251
+Tarcila G. da Silva, Taiana B. Pereira, Julliany S. Brandão, Daniel F. Oliveira e Enoch C. P. L. da Silva
+Sistema Eletrônico de Informações (Sei!): um estudo sobre a melhoria dos serviços públicos com apoio da
+inovação em processos................................................................................................................................... 257
+Ana M. M. de Paiva, Jeison G. dos Santos, Elisandra M. Zambra, Paulo A. R. de Souza e Renato Neder
+Transformação de Projetos de Sistemas de Informação da UTFPR Através de Frameworks Modernos......... 263
+Diogo A. B. Pereira, Marcelo A. Faveri, Rui P. Leite e William H. dos Santos
+UFPB-Sentinela: Um Sistema de Segurança para a Cidade Universitária....................................................... 269
+Iron A. de A. Júnior, Sandro L. I. Araujo, José Augusto L. B. de C. Filho e Arthur S. A. de Melo
+Uma Análise das faturas de telefonia fixa da UFMT utilizando ferramentas gratuitas de ETL e Business
+Intelligence...................................................................................................................................................... 275
+Jonata B. M. dos Santos, Jean Caminha, Ana M. M. Paiva e Willdson G. de Almeida
+Uma solução de automatização no processo de pagamento de bolsas de auxílio......................................... 281
+André T. P. Rodrigues e Raphael P. Ferreira
+Universidade Digital: Gerenciamento de Ordem de Serviço........................................................................... 287
+Marcos J. F. Neto, Diogo C. Silva, Ítalo C. L. Silva e Rômulo N. Oliveira
+Universidade Digital: preservando e disponibilizando a produção científica através do Repositório
+Institucional.................................................................................................................................................... 293
+Italo Silva, Diogo Cabral, Marcos Neto e Rômulo Nunes
+Utilização da Central de Ajuda para a Tecnologia da Informação: Estratégias para Auxílio ao Usuário......... 299
+Paulo Freire Sobrinho
+Utilização de Serviço de Registro, Autenticação e Preservação de Documentos para a Emissão de Diplomas
+Digitais............................................................................................................................................................ 305
+Marcelo Soares, Raphael Patrício, Georgenes Lima e Jeysibel Dantas
+Utilizando a Gestão de Conhecimento para facilitar o desenvolvimento em projetos de software............... 311
+Rodrigo A. Costa
+Análise do Processo de Interações Acadêmicas Através do Mapeamento de Fluxo de Valor na UFRGS......... 318
+Marlon Soliman, Joao F. F. Vieira, Nicolas Dentzuk, Erica K. de Oliveira, Priscilla F. dos R. Pontes e Éverson J. Santos
+Aplicação da Gestão de Processos em uma Instituição Federal de Ensino Superior: o caso da Divisão de
+Orçamento da UFERSA.................................................................................................................................... 324
+Lívia R. Barreto, Geisa M. R. de Vasconcelos e Amanda Braga Marques
+Aplicação de BPM na gestão do TED estabelecido entre o INCRA e a UFMT................................................... 330
+Maurício F. L. Pereira, Olivan Rabelo, Nilton H. Takagi, Anne C. B. Cardoso, Josiel M. Figueiredo
+Execução de Melhoria Contínua Baseado em BPMN e Indicadores na Gestão de Serviços de TIC: Estudo de
+caso na Diretoria de Sistemas do NTI/UFPE.................................................................................................... 336
+Renato V. Mendes e Suzanna S. Dantas
+Grau de Maturidade em Processos: um estudo da evolução da Gestão por Processos na UFJF..................... 342
+Fábio S. de Figueiredo, Leonardo Ciuffo, Alcimar Honório e Wagner Ramalho
+Implementação de novo fluxo de processo: case aula de campo da UFMT.................................................... 348
+Anne C. B. Cardoso, Cleiton D. da Silva, Thais F. B. da Silva, Greice de S. Arruda, Thiago M. Ventura e Leandro Costa
+Garcia
+Incorporando a Gestão de Riscos à Gestão por Processos na Universidade Federal
+de Santa Maria - UFSM .................................................................................................................................... 352
+Evandro G. Flores, Frank L. Casado, Daniele M. Rizzetti, Jonas C. Macedo, Taiani B. Kienetz, Rafael F. Neves
+Melhoria do Processo de Pagamento de Fornecedores do Restaurante Universitário da UFRGS.................. 360
+João F. Vieira, Priscilla F. Pontes, Marlon Soliman, Éverson Santos, Erica K. de Oliveira
+Modelo de Maturidade em Mapeamento de Processos (M3P): Proposta e Aplicação na UFCSPA.................. 366
+Juliana Silva Herbert, Andressa B. de Oliveira, Marilia R. Silveira, Rodrigo de F. Giglio
+Monitoramento de indicadores de processos com uso de Business Intelligence (BI).................................... 372
+Beatriz S. Seidel, Vanessa G. Kinoshita, João C. S. O. Matos, Reinilton S. Juvenal, Naícia K. F. S. B. T. Caten, Leriane S.
+Cardozo
+O mapeamento de processos como elemento facilitador no levantamento e elicitação de requisitos do
+Sistema de Gestão da Universidade Federal de Juiz de Fora ......................................................................... 378
+Leonardo Ciuffo, Fábio S. de Figueiredo e Rafael G. V. Papa
+Processo de Criação de um Novo Regulamento de Graduação Essencial para a Implantação do SIGAA....... 384
+Anne C. O. Rocha, Raphael F. de A. Patrício, José A. L. B. de C. Filho, Fabiana F. do Nascimento e Ayrton N. de S. Silva

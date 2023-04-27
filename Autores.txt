@@ -1,0 +1,124 @@
+
+Daniel A. Moura, Jose O. da Silva, Reginaldo S. dos Anjos e Lígia M. C. Sousa
+
+João V. B. Viana, Delvan L. de Souza, Sandra A. R. dos Santos, Raphael P. Ferreira e Eunice P. dos S. Nunes
+
+Victor G. Bento, Ricardo H. D. Borges, Rogério R. Carvalho e Dannyel C. Fonseca
+
+Luiz F. S. Arcenio
+
+Alan B. de Pontes, Anne C. O. Rocha e Raphael F. de A. Patrício
+
+Patrícia N. Silva e Rainer Couto
+
+Rodrigo A. Costa
+
+Elton P. Rosa
+
+Geovano L. Quatrin, Volnei D. Pol e Diego S. Junges
+
+Marcelo A. Santana, Italo C. L. Silva, Rômulo N. de Oliveira, Marcos J. F. Neto e João B. G. Silva
+
+Jeysibel de S. Dantas e Raphael F. de A. Patrício
+
+Alan Passos e Leonardo Bezerra
+
+Marlos Ribeiro, Renato Mendes e Walter Santos
+
+Cárlisson B. T. Galdino, Rômulo N. de Oliveira e Raiela Quirino Lima
+
+Abel Corrêa Dias, Felipe Ávila dos Santos e Thiago Stein Motta
+
+Ana Carla Macedo da Silva e Diogo Benassuly
+
+Filipe S. Viana, Ênio R. Viana e Diego F. M. Oliveira
+
+Crisley P. Linhares, Gerson B. da Silva1, João G. A. Martinez, Vanderson da S. Rocha, Marckson M. da Silva, João B. L.
+
+Vanderlin A. P. Júnior, Alexsandro C. Carvalho e Lidiane C. Silva
+
+Eduardo M. Monks e Jeronimô F. N. da Rosa
+
+João G. A. Martinez, Gérson B. da Silva e Diogo Soares
+
+Taciano P. de A Alcântara, Marcos I. F. M. da Silva e Herbert N. Onofre
+
+Marckson M. da Silva, Vanderson da S. Rocha, Crisley P. Linhares, Gerson B. da Silva, João B. L. Carneiro e João G. A.
+
+Renato C. Ribeiro e Everton de V. Agilar
+
+Eliézer de Siqueira e Weber S. R. Takaki
+
+Teresa M. M. Maciel e Suzanna Sandes
+
+Danniel Rocha, Euclydes Melo, Luiz Fernando, Marcos Raniere, Matheus Souza e Taison Almeida
+
+André V. F. Sousa, Edmilson A. do Nascimento, Gustavo P. G. dos Santos e Michel P. Andrade
+
+Felipe C. Costa Alves, Jean Caminha, Renan Susuki, Allan Gonçalves, Hernane Junior, Tierry Lincoln e Roberto
+
+Tales M. Machado, Frederico A. de C. A. Gonçalves, Abelard R. Fernandes e Tiago R. Chaves
+
+Rômulo N. de Oliveira,, Deive F. V. Gomes, Carlos R. A. da Silva e Icaro dos S. Silva
+
+Cléber M. Tavares, Diogo G. Pereira, Eliara M. Tavares, Gustavo F. Afonso, José R. P. Ribeiro e Michel L. Alves
+
+Daniel Biasoli e Ocimar Luiz ZolinPoC RNP/UFG: Implantação do G Suite por meio da adesão ao serviço da Plataforma Nasnuvens/RNP
+
+Igor R. Vieira, Jean T. Lima e Ricardo H. D. Borges
+
+Bruno N. Machado, Jhonny L.Cabral, Juarez E. Lima e Ricardo H. D. Borges
+
+Andrey E. da Silva, Bruno N. Machado, Jhonny L. Cabral, Juarez E. Lima, Lauro R. Gomides e Ricardo H. D. Borges
+
+Núbia dos S. R. S. dos Santos e Henrique O. U. P. de Souza
+
+Willdson G. de Almeida, Jeison G. dos Santos e Jonata B. M. dos Santos
+
+Guilherme Geronimo e Gustavo Tonini
+
+Danniel Rocha, Euclydes Melo, Luiz Fernando, Marcos Raniere, Matheus Campanhã e Taison Almeida
+
+Tarcila G. da Silva, Taiana B. Pereira, Julliany S. Brandão, Daniel F. Oliveira e Enoch C. P. L. da Silva
+
+Ana M. M. de Paiva, Jeison G. dos Santos, Elisandra M. Zambra, Paulo A. R. de Souza e Renato Neder
+
+Diogo A. B. Pereira, Marcelo A. Faveri, Rui P. Leite e William H. dos Santos
+
+Iron A. de A. Júnior, Sandro L. I. Araujo, José Augusto L. B. de C. Filho e Arthur S. A. de Melo
+
+Jonata B. M. dos Santos, Jean Caminha, Ana M. M. Paiva e Willdson G. de Almeida
+
+André T. P. Rodrigues e Raphael P. Ferreira
+
+Marcos J. F. Neto, Diogo C. Silva, Ítalo C. L. Silva e Rômulo N. Oliveira
+
+Italo Silva, Diogo Cabral, Marcos Neto e Rômulo Nunes
+
+Paulo Freire Sobrinho
+
+Marcelo Soares, Raphael Patrício, Georgenes Lima e Jeysibel Dantas
+
+Rodrigo A. Costa
+
+Marlon Soliman, Joao F. F. Vieira, Nicolas Dentzuk, Erica K. de Oliveira, Priscilla F. dos R. Pontes e Éverson J. Santos
+
+Lívia R. Barreto, Geisa M. R. de Vasconcelos e Amanda Braga Marques
+
+Maurício F. L. Pereira, Olivan Rabelo, Nilton H. Takagi, Anne C. B. Cardoso, Josiel M. Figueiredo
+
+Renato V. Mendes e Suzanna S. Dantas
+
+Fábio S. de Figueiredo, Leonardo Ciuffo, Alcimar Honório e Wagner Ramalho
+
+Anne C. B. Cardoso, Cleiton D. da Silva, Thais F. B. da Silva, Greice de S. Arruda, Thiago M. Ventura e Leandro Costa
+
+Evandro G. Flores, Frank L. Casado, Daniele M. Rizzetti, Jonas C. Macedo, Taiani B. Kienetz, Rafael F. Neves
+
+João F. Vieira, Priscilla F. Pontes, Marlon Soliman, Éverson Santos, Erica K. de Oliveira
+
+Juliana Silva Herbert, Andressa B. de Oliveira, Marilia R. Silveira, Rodrigo de F. Giglio
+
+Beatriz S. Seidel, Vanessa G. Kinoshita, João C. S. O. Matos, Reinilton S. Juvenal, Naícia K. F. S. B. T. Caten, Leriane S.
+
+Leonardo Ciuffo, Fábio S. de Figueiredo e Rafael G. V. Papa

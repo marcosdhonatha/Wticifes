@@ -1,0 +1,538 @@
+,0
+0,"
+Este artigo tem como objetivo expor uma experiência da aplicação de uma tecnologia ágil de desenvolvimento de 
+sistemas empregada na Universidade da Integração Internacional da Lusofonia Afro-Brasileira, visando a solução 
+de um problema recorrente causado pela falta de automação de um processo tido como essencial na manutenção de 
+bolsas e auxílios de assistência estudantil. Dentre os resultados obtidos é possível verificar a eficiência do método 
+aplicado, bem como a rapidez na entrega da solução.
+"
+1,"
+Este artigo tem como objetivo apresentar o processo de criação do novo Sistema de Avaliação de 
+Desempenho (SAD) dos servidores técnicos-administrativos da Universidade Federal de Mato Grosso (UFMT). 
+A insatisfação dos usuários com o antigo modelo de avaliação motivou a Secretaria de Gestão de Pessoas a 
+buscar por mudanças urgentes, a fim de melhorar esse serviço no âmbito da UFMT. A Secretaria de Tecnologia 
+da Informação da UFMT desenvolveu o novo SAD com apoio de uma equipe multidisciplinar, aplicando a 
+metodologia ágil SCRUM com técnicas de Design Participativo, visando identificar aspectos de acessibilidade e 
+usabilidade, e assim melhorar a experiência do usuário e ampliar o alcance do sistema.
+Palavras-chave: Avaliação de desempenho. SCRUM. Acessibilidade.
+"
+2,"
+A transparência pública está ligada diretamente com a eficiência na gestão e com a lisura das informações 
+disponibilizadas pelos órgãos públicos. Neste sentido, a concepção de um sistema centralizado para tratamento, 
+processamento e visualização de dados é fundamental, haja vista o grande volume de dados armazenados nos 
+sistemas institucionais. A Plataforma Analisa UFG apresenta-se como uma proposta para atender esse objetivo, 
+proporcionando uma abordagem facilitada para visualização de dados e informações por meio de painéis de 
+indicadores e relatórios dinâmicos. Os resultados iniciais demonstram tanto o potencial da Plataforma quanto às 
+dificuldades enfrentadas na validação dos dados. Percebe-se ainda a existência de uma maturidade institucional 
+incipiente no que se refere à cultura de gestão de negócios baseada em dados.
+"
+3,"
+Da necessidade de melhorar o acesso às informações das faturas telefônicas e consequentemente na gestão dos 
+contratos de telefonia fixa e móvel, foi modelado um ambiente com Pentaho. Este ambiente tem por finalidade, 
+eliminar a utilização de planilhas eletrônicas, que continuamente apresentam problemas devido ao grande volume 
+de registros das faturas e o acumulo mensal necessário. O Pentaho contribuiu de forma significativa na análise 
+destas faturas, resultando em uma melhor visualização das informações e gerenciamento do serviço de telefonia 
+fixa e móvel.
+Palavras-chave: Business Inteligence, Pentaho.
+"
+4,"
+O presente artigo tem como objetivo apresentar um relato sobre a implantação de teste funcional automático de regressão pela equipe de qualidade e testes de software da UFPB. Para isso, foram adotadas algumas tecnologias open-source já existentes. Neste trabalho serão apresentadas experiências referente à utilização das ferramentas de testes em alguns módulos do Sistema Integrado de Gestão Acadêmica (SIGAA) implantado na UFPB, uma visão geral da configuração do ambiente para que os testes pudessem ser executados periodicamente, a motivação para seleção dos casos de teste para o tipo de teste em comento, os defeitos encontrados após a execução habitual destes testes, problemas enfrentados e algumas soluções encontradas.
+Palavras-chave: Testes de Software; Teste de Regressão; Testes Automáticos;
+"
+5,"
+Este artigo descreve a experiência do Centro de Computação da UFMG no desenvolvimento de um aplicativo 
+acadêmico voltado para os graduandos da UFMG. A metodologia envolveu o estudo das tecnologias existentes, 
+a construção de um piloto e o desenvolvimento do aplicativo. O Siga UFMG, em sua versão inicial, reproduziu 
+as funcionalidades mais acessadas nos sistemas acadêmicos da UFMG: matrículas, ocorrências, notas e faltas, 
+comprovante de matrícula, plano de estudos e alguns relatórios. Foi criada uma visualização da carteira de 
+identificação do aluno e notificações que sinalizam alterações nas matrículas e vida acadêmica do discente. O 
+projeto incentivou a busca de novos conhecimentos pela equipe perpassando por novas linguagens de programação, 
+configuração de plataformas e ambientes, desenho e análise, experiência do usuário (UX), técnicas de teste em 
+emuladores e dispositivos móveis, documentação e publicação nas lojas de aplicativos. 
+Palavras-chave: Aplicativo. React Native. Siga UFMG.
+"
+6,"
+Um dos serviços disponibilizados para a comunidade acadêmica dentro da Universidade Federal do Amazonas 
+(UFAM) é o acesso à Internet sem fio (Wi-fi). Devido às características da região em que se encontra, esse acesso pode 
+sofrer interferências como chuvas em excesso, rompimento de fibra óptica e, falhas na transmissão do serviço que 
+provocam a sensação de má prestação no serviço por parte do Centro de Tecnologia da Informação e Comunicação 
+(CTIC) Este trabalho apresenta uma análise de sentimentos feita a partir de tweets publicados por usuários da 
+UFAM. Para isso utilizou-se de técnicas de Reconhecimento de Entidades para realizar a detecção e classificação de 
+palavras em bases textuais coletadas do Twitter.
+"
+7,"
+Este artigo descreve a implantação do software GLPI na Diretoria de Tecnologia da Informação da UFVJM de 
+forma modularizada e estruturada hierarquicamente visando uma melhor gestão de chamados sem comprometer 
+a usabilidade do usuário final durante o ciclo de vida de suas solicitações. O sistema foi adaptado levando em 
+consideração o refinamento realizado no catálogo de serviços da DTI, automatizando várias etapas de triagem de 
+chamados e desburocratizando o processo de abertura e aprovação dos mesmos através da utilização de formulários 
+personalizados. Os resultados são elencados através do feedback dos usuários, por meio da pesquisa de satisfação 
+interna, e a visualização de dados gráficos providos pelas métricas do sistema.
+Palavras-chave: glpi, atendimento, suporte, usabilidade, catálogo de serviços
+"
+8,"
+A Universidade Federal da Fronteira Sul (UFFS) desde a sua implantação fazia uso de uma infraestrutura de 
+telefonia híbrida, com expressivo quantitativo de ramais analógicos e tecnologia proprietária, realidade que ao 
+longo dos anos apresentou dificuldades de sustentação e ampliação. Este trabalho apresenta o estudo e a solução 
+adotada na Universidade Federal da Fronteira Sul para superar as dificuldades de escalabilidade e a reestruturação 
+para uma infraestrutura de telefonia baseada na tecnologia Voz sobre IP (VoIP).
+Palavras-chave: SIP, VoIP, Telefonia, Asterisk, Voz sobre IP.
+"
+9,"
+A Governança de TI surgiu com o propósito de alinhar a TI aos negócios, promovendo assim um maior controle dos 
+ativos de TI e melhorando o gerenciamento de serviços. No caso específico da UFAL campus Arapiraca, foi adotada 
+a biblioteca ITIL, instanciada no GLPI. Apesar dos ganhos percebidos na implantação do sistema de service desk, 
+verificou-se que ainda existe uma dificuldade por parte da comunidade acadêmica em identificar os serviços os 
+quais ela desejava atendimento. Assim, o objetivo do trabalho é desenvolver um catálogo de serviços de TI, integrado 
+ao service desk já existente, garantindo uma maior autonomia aos usuários para registrar suas demandas de 
+forma simples, rápida e prática. Como resultados preliminares, podemos destacar a redução do tempo de espera no 
+atendimento e diminuição do número de ligações referente à solicitação de serviços.
+Palavras-chave: Governança, ITIL, Service Desk.
+"
+10,"
+Apesar dos benefícios da computação em nuvem, os departamentos de TI ainda são céticos quanto aos benefícios e 
+relutantes em migrar seus sistemas para novas abordagens.  Este artigo tem a intenção de descrever uma estratégia 
+bem sucedida para migração de aplicações e servidores J2EE para novas arquiteturas baseadas em conteinerização 
+e computação em nuvem. A partir de um estudo de caso, este artigo explora o processo de migração de uma 
+implementação convencional baseada em máquinas virtuais para uma orientada à computação em nuvem, a partir 
+de uma perspectiva pós implementação.
+Abstract
+Despite the benefits of cloud computing, IT departments are still skeptical of the benefits and reluctant to migrate 
+their systems to new approaches. This paper intends to describe a successful strategy for migrating applications and 
+J2EE servers to new architectures based on containerization and cloud computing. From a case study, this article 
+explores the process of migrating from a conventional virtual machine-based implementation to a cloud-oriented 
+one, from a post-implementation perspective.
+"
+11,"
+Este trabalho descreve a evolução da tecnologia no âmbito educacional e administrativo da Universidade Federal de 
+Sergipe (UFS) e como esta avançou na democratização dos dados por meio da APISistemas e de aplicações móveis. 
+Trata também acerca da estratégia na escolha do Flutter como framework para desenvolvimento mobile.
+Abstract
+This work describes the evolution of technology in the educational and administrative scope of Universidade Federal 
+de Sergipe (UFS) and the progress to data democratization through APISistemas and mobile applications. Also 
+depicts the strategy of Flutter as a framework choice for mobile development.
+Palavras-chave: Desenvolvimento móvel, Desenvolvimento móvel multiplataforma, Flutter, Frameworks 
+multiplataforma.
+"
+12,"
+Este trabalho busca relatar a experiencia de implantação do módulo de protocolo do Sistema Integrado de Patrimônio, 
+Administração e Contratos na Universidade Federal de Pernambuco. Trazendo para os atos administrativos da 
+UFPE um paradigma digital, ZERO papel, 100% digital.
+"
+13,"
+Senhas de usuário são um elemento importante na segurança da informação, podendo comprometer a segurança de 
+qualquer sistema. Este artigo apresenta o método DWD12 para geração de senhas seguras e memorizáveis. Baseado 
+no Diceware, o método DWD12 foi desenvolvido para aprimorá-lo e vem sendo aplicado internamente no Núcleo de 
+Tecnologia da Informação (NTI) do Campus Arapiraca da Universidade Federal de Alagoas (UFAL).
+Palavras-chave: Diceware, senhas, geração de senhas, segurança, passphrases.
+"
+14,"
+A popularização dos dispositivos móveis motivou os desenvolvedores a repensar a maneira com que as aplicações 
+são projetadas, levando em consideração uma separação de deveres das camadas de frontend e backend de modo que 
+elas possam evoluir independentemente. Este artigo apresenta a API UFRGS, um serviço que provê endpoints HTTP 
+de fácil utilização para serem consumidos pelos aplicativos da Universidade Federal do Rio Grande do Sul (UFRGS).
+"
+15,"
+Os firewalls da nova geração (Next Generation Firewalls) são ferramentas capazes de criar uma camada a mais 
+de segurança no acesso à Internet, permitindo também um gerenciamento do uso da rede privada por meio de 
+logins individualizados. Este artigo apresenta a estratégia adotada para implementar a funcionalidade que executa 
+a desconexão de um usuário conectado ao Captive Portal do firewall utilizado na UFPI, funcionalidade essa 
+não fornecida diretamente pela solução, mas disponibilizada indiretamente via API do sistema de firewall. Esta 
+solução resultou em maior garantia na autenticidade dos usuários na rede interna da instituição, mantendo um 
+rastreamento mais fidedigno de seus acessos.
+"
+16,"
+Este trabalho descreve o processo de implantação do Graylog como solução para a problemática da centralização 
+dos logs gerados na rede interna da Universidade Federal do Amazonas (UFAM), dado a necessidade de melhorar 
+o controle sobre estes dados, que ficavam dispersos nos ativos e aplicações instalados na rede. O uso do Graylog 
+torna mais simples o processo de auditoria e a identificação de diversos eventos na rede da universidade, através da 
+consolidação, análise e gerenciamento destes logs uma vez centralizados.
+Palavras-chave: Graylog, logs, rede, centralização, gerenciamento.
+"
+17,"
+As universidades federais são pautadas no princípio da gestão democrática e, portanto, têm garantida a participação 
+de seus segmentos (técnicos, docentes e discentes) em órgãos colegiados. Fazer a gestão desses órgãos colegiados 
+tornou-se uma função onerosa e complexa devido a suas dimensões e particularidades. Este trabalho tem como 
+objetivo apresentar a solução adotada pela Universidade Federal de São Paulo para gestão e transparência de 
+seus órgãos colegiados, o GESCON. Como principais resultados tem-se a padronização na confecção das atas; a 
+disponibilização em menor tempo dos conteúdos discutidos; a gestão e o controle do mandato e da frequência dos 
+membros e a promoção da transparência ativa dos dados institucionais.
+Palavras-chave: órgãos colegiados, transparência, controle de mandatos.
+"
+18,"
+Este artigo descreve a abordagem realizada na Universidade Federal de Pelotas para o gerenciamento dinâmico 
+de largura de banda baseado em software livre. A solução criada possui o nome de Iftopper e tem como princípio 
+o melhor uso da largura de banda, com uma abordagem dinâmica para aplicação de restrições. Serão descritas as 
+metodologias utilizadas e os resultados e conclusões.
+"
+19,"
+A demanda por sítios web oferecidos por instituições de ensino federais têm intensificado nos últimos anos, com 
+objetivo de prover visibilidade e serviços para a sociedade e comunidade acadêmica. Em geral, o processo de deploy 
+de sítios pode requerer recursos de tempo e pessoal, visto que essa é uma demanda cíclica. De modo a mitigar o 
+uso de recursos de pessoal e tempo, este artigo descreve o processo de implantação automatizada de novos sítios 
+institucionais a partir do uso das tecnologias Docker, Git e Jenkins. O objetivo é acelerar, padronizar, centralizar e 
+simplificar o processo de implantação gestão e manutenção dos sítios, além de economizar recursos computacionais 
+e humanos.
+Palavras-chave: sítios, infraestrutura, automação, docker, git, jenkins.
+"
+20,"
+Este artigo descreve a experiência da implantação da rede sem fio na Universidade Federal do Cariri. São expostos 
+as dificuldades encontradas e as soluções adotadas. Também são apresentados alguns resultados, conclusões e 
+trabalhos futuros.
+"
+21,"
+O Marco Civil da Internet, Lei promulgada em 2014, tange à importância do monitoramento e a guarda de registros 
+de conexão dos usuários da rede de computadores. A Universidade Federal do Amazonas - UFAM, buscando atender 
+o Marco Civil e após o processo de adesão à CAFe (Comunidade Acadêmica Federada), implantou o Eduroam 
+(education roaming). O acesso sem fio seguro para a comunidade acadêmica, que inclui alunos professores e 
+servidores, é oferecido pelo serviço Eduroam.  Este artigo apresenta os trabalhos desenvolvidos para  implantação do 
+serviço Eduroam na rede sem fio da Universidade Federal do Amazonas.
+Palavras-chave: rede sem fio, CAFe, Eduroam, identidade única.
+"
+22,"
+Nos últimos anos, a modernização dos sistemas legados tem sido prioridade para a Universidade de Brasília (UnB). 
+Este artigo apresenta os desafios encontrados e as soluções propostas pela equipe de arquitetura do CPD/UnB para 
+realizar a integração de 3 bases de dados de usuários distintas referentes aos sistemas legados da UnB (que estão 
+em uso a mais de 20 anos), o sistema Eletrônico de Informações (SEI) e o novo Sistema de Gestão Administrativo, 
+Pessoal e Acadêmico adquirido da Universidade Federal do Rio Grande do Norte (UFRN) por meio de um acordo de 
+cooperação.
+"
+23,"
+Devido ao rápido crescimento da Universidade, a área de TI da UNILA identificou a necessidade de aperfeiçoar o 
+controle de permissões e a auditoria de chamadas telefônicas. Nesse cenário, foi preciso desenvolver uma solução 
+confiável para garantir que apenas pessoas autorizadas pudessem efetuar chamadas para celular e de longa distância. 
+Desse modo, a solução envolveu a integração do serviço de diretórios institucional (LDAP1) e a central telefônica 
+Asterisk, esta última configurada para somente autorizar chamadas mediante a apresentação do pin, o qual se 
+encontra vinculado ao usuário por intermédio do serviço LDAP. A solução desenvolvida apresentou desempenho 
+satisfatório, e cumpriu com os requisitos estabelecidos inicialmente. 
+Palavras-chave: Telefonia VoIP; LDAP; FreePBX.
+"
+24,"
+Este artigo relata uma iniciativa que está em andamento desde dezembro de 2018 no Núcleo de Tecnologia da 
+Informação da UFPE, que consiste na implantação de uma técnica conhecida como Radar da Felicidade, a qual 
+tem se mostrado uma boa ferramenta para se obter visibilidade sobre o grau de satisfação dos funcionários, o que 
+reflete diretamente no engajamento e produtividade . O artigo apresenta uma visão geral da técnica e relata como 
+está sendo a sua adoção pelo NTI-UFPE, incluindo a implantação, condução e análise dos resultados, ressaltando 
+os desafios e benefícios alcançados.
+Palavras-chave: melhoria organizacional, medição da satisfação
+"
+25,"
+O processo de desenvolvimento de software nas IFEs é repleto de demandas dos mais diversos setores destas 
+instituições. A divisão do time por área de atuação acaba criando ilhas de conhecimento e desfavorece a integração. 
+Além disso, como disciplina a Engenharia de Software, desenvolver um time autogerenciável impacta positivamente 
+na produtividade. Todavia, desenvolver essas competências não é uma tarefa trivial. Este trabalho apresenta um 
+método de atribuição automática de tarefas aplicável nesse cenário, a fim de estimular a autogestão.
+Palavras-chave: Autogestão, Engenharia de Software, Atribuição de Tarefas.
+"
+26,"
+A Universidade Federal da Bahia (UFBA) possui o Moodle como plataforma de ensino a distância. Este artigo 
+apresenta a arquitetura redundante, escalável e de fácil configuração dos recursos computacionais, implantada na 
+UFBA e que se aplica a ambientes com um elevado número de usuários, permitindo um grande número de conexões 
+simultâneas. A criação desse artigo tem como objetivo auxiliar outras Instituições de Ensino que adotam o Moodle, 
+frente ao crescente número de alunos no ensino a distância e a escassa documentação existente para configuração.
+Palavras-chave: PHP, Moodle, Apache, MySQL, EAD.
+"
+27,"
+Este artigo apresenta uma comparação entre sistemas virtualizados e os sistemas em containers através de testes 
+em um ambiente de TI no Governo Federal. Os serviços de servidor de páginas web, banco de dados, DNS, e-mail e 
+gerenciamento de logs foram analisados em ambos os ambientes e coletados os parâmetros de uso de processamento 
+e memória. A arquitetura baseada em contêineres alcançou um desempenho de processamento 68% melhor em 
+comparação à virtualização. O uso destas soluções pode colaborar para redução de despesas com infraestrutura de 
+TI em instituições públicas e o aumento da disponibilidade dos serviços.  
+"
+28,"
+Este trabalho apresenta os primeiros resultados proporcionados pela adoção no Micro Serviços no desenvolvimento 
+de sistemas na Universidade Federal de Ouro Preto. A adoção dessa arquitetura permitiu a divisão dos sistemas 
+em partes menores, independentes, isoladas, escaláveis e com responsabilidades únicas. Ainda, por serem partes 
+isoladas, foi possível tratar a segurança dos Micro Serviços de forma a disponibilizar interfaces de programação 
+de aplicações para terceiros. Esta arquitetura possibilitou novas formas de desenvolver aplicações focadas na 
+experiência do usuário e uma parceria com um professor da Universidade resultando em um aplicativo de controle 
+de frequência para os professores.
+"
+29,"
+Em redes lógicas corporativas é comum encontrar usuários insatisfeitos com a conexão para Internet. O problema 
+ainda se agrava quando usuários usam este recurso para fins secundários ou particulares. Na Universidade Federal 
+de Alagoas, Campus Arapiraca, Unidade de Penedo, os usuários da rede lógica ainda compartilham e competem pelo 
+recurso com a vizinhança local. Este trabalho apresenta uma solução prática para o problema, utilizando recursos 
+acessíveis e gratuitos do próprio Linux. Para garantir uma distribuição justa e equilibrada da banda de Internet, 
+um conjunto de cotas de tamanho dinâmico foi implementado com a ferramenta traffic control. O resultado se 
+mostrou bastante eficiente na percepção dos usuários e da equipe técnica.
+Palavras-chave: gerenciamento de tráfego de rede, traffic control.
+"
+30,"
+Este artigo descreve a estratégia que está sendo adotada na UNIFAL-MG para atender à Lei da Desburocratização 
+e otimizar processos internos relacionados diretamente com a obtenção, armazenamento e reaproveitamento de 
+documentos do corpo discente, com o suporte de uma estrutura computacional projetada pelo Núcleo de Tecnologia 
+da Informação em conjunto com áreas fim da Instituição.
+"
+31,"
+Este meta-artigo descreve a construção de uma ferramenta, PMC (Project Model Canvas), com a finalidade de 
+simplificar a gestão de projetos na Secretaria Especial de Tecnologia da Informação (SETI) da Universidade Federal da 
+Fronteira Sul (UFFS). A simplificação, neste caso, é facilitada pela concepção de utilização de um processo de gestão 
+de projetos híbrido, que encapsula metodologias de gerenciamento de projetos existentes em setores hierarquizados, 
+aprimorando a eficácia dos planejamentos e aumentando o dinamismo e a simultaneidade de projetos, aos quais 
+soluções rígidas e engessadas nem sempre podem ser aplicadas. Desse modo, visualizou-se na metodologia do Project 
+Model Canvas (PMC) ferramentas eficazes para tornar o processo de gestão de projetos híbrido, encapsulando uma 
+estrutura setorizada hierarquizada em um modelo de gestão projetizado, em consonância com a teoria que rege o 
+gerenciamento de projetos. Assim, construiu-se uma aplicação Web que auxilia o processo de gestão dos projetos, 
+proporcionando mecanismos de análise, monitoramento e interatividade entre os membros de projetos.
+Palavras-chave. Project Model Canvas; Gestão de Projetos; Ferramenta Web, Universidade Federal da Fronteira 
+Sul.
+"
+32,"
+Manter o serviço de e-mail de uma IFES é uma tarefa árdua e dispendiosa. O esforço para que o serviço esteja 
+sempre funcional, disponível e com qualidade aceitável é desproporcional à força de trabalho e recursos existentes 
+para a grande maioria das instituições. Este trabalho tem por objetivo descrever os passos, dificuldades e estratégias 
+adotadas no processo de migração do serviço de e-mail anterior (Zimbra Collaboration Server) para o G Suite for 
+Education, por meio da adesão ao serviço disponibilizado na Plataforma Nasnuvens, viabilizado por uma PoC 
+entre a UFG e a RNP.
+Palavras-chave. E-mail, implantação, migração, G Suite, Zimbra, Nasnuvens, RNP.
+"
+33,"
+A publicação de dados abertos é uma realidade nos órgãos públicos, incluindo as instituições de ensino superior, 
+atendendo aos anseios da Lei de Acesso à Informação. Entretanto, existe o desafio de publicar dados nos meios 
+digitais em um formato que, de fato, possa ser manipulado e reutilizado por outros indivíduos ou sistemas. Neste 
+contexto, este artigo apresenta o Portal de Dados Abertos UFG que tem por objetivo a publicação espontânea de 
+dados dos sistemas institucionais da UFG em formatos manipuláveis. O Portal de Dados Abertos UFG está em fase 
+final de desenvolvimento e permitirá a publicação de dados nos formatos .csv e .json. Atualmente, os conjuntos de 
+dados estão sob avaliação e classificação para posterior publicação no Portal.
+Palavras-chave. Dados Abertos, publicação, manipulação, Web.
+"
+34,"
+A necessidade de transformação digital em todos os setores da economia, destacando aqui o serviço público 
+brasileiro, é uma realidade. Entretanto, existe o desafio da disponibilização de dados nos meios digitais em um 
+formato que de fato possa ser manipulado e reutilizado por outros indivíduos ou sistemas. Neste contexto, este artigo 
+apresenta o Portal de Integração UFG que tem por objetivo a disponibilização de dados dos sistemas institucionais 
+da UFG por meio de APIs, aqui definido como um conjuntos de Web Services. O Portal de Integração UFG está em 
+desenvolvimento e já possui uma API com um conjunto de serviços em operação. A expectativa do Portal é atender 
+demandas de integração de dados e sistemas tanto internas como da comunidade externa.
+Palavras-chave. Integração, serviços, dados, API, web service.
+"
+35,"
+O gerenciamento de riscos em projetos requer a definição de um processo que permita identificar, registrar, 
+acompanhar e controlar os riscos desde o planejamento até o encerramento do projeto. O gerenciamento de riscos é 
+necessário para evitar impedimentos e falhas em projetos, permitindo também a definição de ações de contingência, 
+caso o evento ocorra. Nesse contexto, o artigo apresenta um processo de controle de riscos introduzido no processo 
+de gerenciamento de projetos da STI/UFF. O estudo apresenta o processo, as ferramentas de suporte utilizadas e 
+algumas métricas e análises realizadas.
+"
+36,"
+O gerenciamento das redes lógicas e de telefonia fixa em Instituições de Ensino Superior (IES) exige um g rande 
+esforço técnico por parte da equipe responsável devido a sua complexidade. Dessa forma, este artigo apresenta um 
+relato de experiência sobre o processo de implantação de uma ferramenta que possibilita realizar a documentação e 
+gestão das configurações d as redes de comunicação administradas pela Secretaria de Tecnologia da Informação da 
+Universidade Federal de Mato Grosso.
+Palavras-chave: Sistema de documentação, Endereço I P, PHPIPAM.
+"
+37,"
+Devido à crescente necessidade de serviços de Tecnologia da Informação para o pleno funcionamento de Instituições 
+Federais de Ensino Superior, a organização e o acompanhamento das demandas desta natureza torna-se a cada dia 
+mais importante. Este artigo apresenta as soluções adotadas pela STI da UFPI, evidenciando seus pontos positivos 
+e negativos.
+Palavras-chave: Acompanhamento de Projetos e Serviços, Sistema Integrado.
+"
+38,"
+Este artigo apresenta um sistema desenvolvido com o objetivo de facilitar o levantamento das necessidades e o 
+planejamento das contratações de bens, serviços e soluções de tecnologia da informação e comunicações do Cefet/RJ 
+para consolidação no Plano Anual de Contratação. O sistema buscou otimizar o processo de planejamento e gestão 
+das informações, antes realizados manualmente. Embora ainda não tenha sido possível realizar análises estatísticas 
+aprofundadas, notou-se que a solução teve uma excelente receptividade por parte dos usuários, que consideram a 
+ferramenta eficaz e simples de ser utilizada, o que mostra que além de melhorar a gestão da informação, o quesito 
+usabilidade é mais um benefício do sistema.
+"
+39,"
+O estudo apresenta os primeiros resultados sobre a avaliação do uso do Sei!, enquanto inovação na gestão de 
+processos da UFMT, e uma reflexão acerca dos conceitos de inovação, relacionando-os com tecnologia, Sistemas de 
+Informação(SI’s) e gestão de processos na administração pública, pela percepção de servidores técnicos e docentes 
+lotados na Faculdade de Administração e Ciências Contábeis (FACC) do Campus Cuiabá, como forma de melhoria 
+contínua.
+Palavras-chave: Inovação. Gestão de Processos. Sistema de Informação. Sei!
+"
+40,"
+Este artigo descreve a aplicação de metodologia ágil juntamente com a adoção de novas tecnologias no Departamento 
+de Projetos de Sistemas na UTFPR. Descreve os motivos e os ganhos da adoção dos frameworks Angular   (front-
+end) e Demoiselle (back-end), e de ferramentas apoio como o Pencil, Slack e GitLab. Relata, ainda, exemplos da 
+transformação ocorrida, como o aumento da produtividade e a entrega de novos sistemas. 
+Palavras-chave: métodos ágeis, Angular, Demoiselle, GitLab
+"
+41,"
+Os problemas relacionados à segurança pública afetam todos os setores da sociedade, contribuindo para o aumento 
+da criminalidade, também, nas instituições públicas de ensino. O Sentinela é um sistema de segurança que visa 
+manter a integridade de toda a comunidade acadêmica. A solução descrita neste artigo é composta por um conjunto 
+de aplicações integradas, dentre elas: uma aplicação para dispositivos móveis, uma aplicação Web e um serviço de 
+autenticação institucional, além de um sistema que fornece suporte a todos os demais.
+Palavras-chave: Segurança Pública, Segurança Institucional, Sistema de Segurança
+"
+42,"
+O processo ETL ({Extract, Transform, Load} - Extração, Transformação, Carga) é uma técnica de análise de Business 
+Intelligence (BI) que executa a extração e manipulação de dados, de forma a obter informações que subsidiam 
+os gestores das organizações nas tomadas de decisões. O presente artigo relata a aplicação do processo ETL nas 
+faturas telefônicas da Universidade Federal de Mato Grosso (UFMT), utilizando ferramentas gratuitas. Um ato 
+administrativo baseado nesta análise, pode gerar uma economia de R$ 11.000,00 em cinco anos para a Universidade. 
+Palavras-chave: ETL, Telefonia Fixa, Business Intelligence (BI)
+"
+43,"
+A automatização e integração de sistemas do governo é uma tendência entre os diversos órgãos públicos. O cenário 
+atual no fornecimento de bolsas na instituição apresenta inconsistências, duplicações e pagamentos equivocados de 
+bolsas. Este artigo descreve como efetuar o pagamento de credores por meio da integração do processo batch do SIAFI 
+com o Sistema de Gerenciamento de Bolsas e Auxílios (SGBA). Com a solução implementada espera-se um maior 
+controle na concessão e no pagamento e também um melhor aproveitamento dos recursos humanos hoje empregados 
+para execução dessa atividade, aumentando a eficiência e a eficácia da gestão administrativa.
+Palavras-chave: Integração, SIAFI, Processo Batch
+"
+44,"
+Desde a abertura do Campus Arapiraca da UFAL em 2006, sua infraestrutura está em expansão. Com isso o processo 
+de troca de informações e execução de serviços de infraestrutura têm ficado cada vez mais complexo, dificultando 
+o seu gerenciamento na COINFRA. Tal setor utiliza tecnologias não integradas e não oficialmente adotadas pelo 
+NTI que podem sofrer por falta de segurança e confiabilidade, tornando o trabalho mais redundante. Diante disso, 
+este trabalho apresenta um módulo para o gerenciamento das solicitações de serviço realizadas à COINFRA dentro 
+do Campus Arapiraca, com o objetivo de automatizar o processo de gerenciamento de solicitações e a comunicação 
+entre as partes envolvidas. 
+Palavras-chave: Ordem de serviço. Sistema web. Sistema integrado ERP.
+"
+45,"
+No âmbito da ciência, as instituições públicas de ensino produzem a cada ano uma quantidade relevante de material 
+científico. Além de produzir, elas precisavam disponibilizar este material para a comunidade acadêmica. Neste 
+sentido, surgiu o Repositório Institucional (RI) com o propósito de capturar, armazenar, disponibilizar e preservar 
+a memória institucional. No caso da UFAL, campus Arapiraca, não foi diferente. À medida que a produção científica 
+aumentava, a necessidade por uma solução para gerir o conhecimento produzido ficava mais evidente. Portanto, 
+o objetivo deste trabalho é apresentar o desenvolvimento e funcionamento do módulo de Repositório Institucional 
+integrado ao projeto Universidade Digital. Os dados obtidos sobre o RI até o momento, com 2654 publicações e quase 
+30 mil visualizações mostram a importância da adoção de uma solução como esta em uma instituição pública. 
+Assim, podemos destacar como benefícios obtidos com a implantação da solução: disponibilidade e publicidade do 
+acervo e uma maior visibilidade para autores.
+Palavras-chave: Repositório Institucional, Universidade Digital.
+"
+46,"
+Objetivo desta pesquisa é o uso de métodos relativo a encontrar através de mecanismo centralizado em que agilize por 
+meio da TI, com o propósito de melhorar o suporte de atendimento ao usuário. O principal interesse é comprovação 
+de que maneira a Central de Ajuda poderia ser melhor e eficiente, comparado a outros recursos já utilizados 
+para o fluxo do atendimento aos usuários. Através dos resultados constatou-se as estratégias e padronizações nos 
+Artigos contribuirão na qualidade dos atendimentos envolvendo a TI. Concluiu-se que houve a redução de recursos 
+humanos e de  tempo, para auxílio através do mecanismo de informações centralizadas reutilizados pelos usuários 
+que necessitaram de suportes.
+Palavras-chave: Artigos, Central de Ajuda e Tecnologia da Informação.
+"
+47,"
+Frequentemente são noticiados na mídia casos de falsi ficação de documentos, inclusive no âmbito acadêmico, no 
+qual diplomas falsos podem ser facilmente adquiridos de maneira ilícita. O Laboratório de Aplicações de Vídeo 
+Digital da Universidade Federal da Paraíba (UFPB) desenvolveu uma solução para contornar este tipo de problema. 
+O serviço de Registro, Autenticação e Preservação de Documentos Digitais (RAP) combina o uso de assinaturas 
+digitais e tecnologias de livro-razão distribuído para fornecer uma plataforma segura que permite o registro de 
+documentos eletrônicos, a validação da autenticidade e a preservação a longo prazo de tais documentos. Este 
+trabalho descreve a utilização do serviço RAP na emissão de diplomas digitais na UFPB. Foi feita uma adaptação 
+do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA), para a integração com o serviço desenvolvido, 
+de tal modo que os diplomas digitais registrados em um livro público ficam à disposição dos discentes e podem ser 
+validados por qualquer parte interessada.
+"
+48,"
+O desenvolvimento de software é uma das fases necessárias para a correta execução de um projeto de TI. Devido 
+às constantes demandas de uma Instituição de Ensino para a melhoria dos serviços oferecidos à comunidade é 
+preciso utilizar mecanismos que favoreçam a gestão e o compartilhamento de informações para promover agilidade 
+no desenvolvimento de sistemas. Este artigo apresenta os resultados preliminares de um trabalho de iniciação 
+de um processo de Gestão de Conhecimento que visa a melhoria dos processos internos referentes à atividade de 
+desenvolvimento de software dentro da Coordenação de Sistemas da Universidade Federal do Amazonas.
+"
+49,"
+Na Universidade Federal do Rio Grande do Sul (UFRGS), o processo para aprovação de ações finalísticas a serem 
+realizadas entre a Universidade e outras partes interessadas passa por um processo moroso e burocrático, conhecido 
+como Interações Acadêmicas. Esse artigo relata como a ferramenta de Mapeamento de Fluxo de Valor (MFV) foi 
+utilizada para apoiar a análise e a elaboração de recomendações para esse processo. Os resultados mostram que o 
+MFV permitiu o correto esclarecimento do problema, direcionando as estratégias e ações a serem tomadas.
+Palavras-chave: Mapeamento de fluxo de valor; Interações; Universidades; Produção enxuta; Gestão pública.
+"
+50,"
+O presente trabalho objetiva descrever a metodologia de implantação da Gestão de Processos de Negócio em uma 
+divisão orçamentária de uma Instituição Federal de Ensino Superior. Trata-se de mostrar como se deu a evolução 
+dessa trajetória, bem como propor a modelagem e implantação de melhorias nos processos que perpassam esse setor. 
+A utilização desse modelo norteará as futuras ações da equipe da Divisão de Orçamento e servirá de base para os 
+próximos passos do planejamento e execução orçamentária da universidade.
+Palavras-chave: Gestão de Processos de Negócio; Divisão Orçamentária; Universidade.
+"
+51,"
+Este trabalho apresenta os benefícios obtidos em um projeto científico em que houve o envolvimento dos escritórios 
+de projetos, processos e de inovação tecnológica no apoio a sua gestão. No trabalho são apresentados os métodos 
+empregados para permitir que coordenação científica pudesse concentrar maiores esforço nas questões científicas, 
+deixando o apoio a gestão operacional e de modelagem dos processos a cargo dos escritórios. Esse modelo de 
+envolvimento tem um caráter inovador na universidade e pode ser um ponto importante para a absorção de novos 
+projetos e para a sustentabilidade da mesma.
+"
+52,"
+Este trabalho investigou o uso de gestão de processos de negócios em um ambiente de serviços de tecnologia de 
+informação e comunicação (TIC), para obtenção de melhores resultados de desempenho. Um estudo de caso foi 
+realizado no Núcleo de Tecnologia da Informação da UFPE. Utilizando abordagens como BPMN e gestão por 
+indicadores em um processo de melhoria contínua foi possível melhorar os resultados à medida que novos ciclos de 
+melhoria eram realizados.
+Palavras-chave: Gerenciamento de Processos de Negócio; BPMN; Indicadores; Melhoria Contínua; Gerenciamento 
+de Serviços de TIC
+"
+53,"
+Tendo por base uma pesquisa de natureza qualitativa-quantitativa, este relato de experiência busca avaliar o 
+quanto a Universidade Federal de Juiz de Fora evoluiu em seu modelo de maturidade em processos, a partir da 
+criação do Escritório de Processos (EP). Os resultados demonstram que a estruturação de ciclos de maturidade 
+orientou o processo evolutivo do EP e que esse prosperou nas metas inicialmente propostas, tornando-se referência à 
+Administração da instituição, o que resultou na mudança do escopo de atuação do EP.
+"
+54,"
+O Escritório de Projetos e Processos da Universidade Federal de Mato Grosso conduziu a implementação do novo 
+fluxo do processo de aula de campo com a utilização de técnicas de gestão de projetos e processos a fim de conseguir os 
+resultados esperados. Os esforços resultaram no engajamento dos responsáveis pelo processo, situação indispensável 
+para a efetivação do trabalho. Os resultados positivos da implementação do projeto geraram celeridade e economia 
+financeira para a Instituição.
+Palavras-chave: BPM, implementação de melhoria, graduação
+"
+55,"
+Este artigo tem a finalidade de apresentar como a Universidade Federal de Santa Maria está incorporando a Gestão 
+de Riscos à Gestão por Processos. Fundamentado em alguns conceitos, tais como: BPM, COSO, Norma NBR “ISO 
+31000:2009 e Gestão de Riscos, o Projeto Modernização Administrativa da Reitoria da UFSM desenvolveu um 
+piloto afim de validar uma metodologia capaz de identificar os riscos em processos, bem como seus impactos, e 
+propor ações que possam minimizar ou até eliminar determinados riscos.
+Palavras-chave: Gestão por Processos; Gestão de Riscos; Riscos.
+"
+56,"
+A Universidade Federal do Rio Grande do Sul (UFRGS) estava atrasando os pagamentos dos fornecedores referentes 
+aos serviços prestados pela Pró-reitoria de Assuntos Estudantis (PRAE). O presente trabalho tem por objetivo 
+apresentar o projeto de melhoria para o processo de pagamento de fornecedores do principal serviço prestado pela 
+PRAE, o Restaurante Universitário (RU). A partir da modelagem AS IS e de uma análise do processo, identificou-se 
+que a falta de visão holística e o excesso de burocracia no controle das notas fiscais (NFs) estava gerando o atraso no 
+pagamento. A partir disso, melhorias foram propostas para o processo.
+Palavras-chave: BPM, melhoria de processos, processo de pagamento
+"
+57,"
+Este artigo descreve a motivação, o desenvolvimento e a aplicação de um Modelo de Maturidade em Mapeamento 
+de Processos (M3P) pelo Núcleo de Qualidade Interna (NQI) da UFCSPA. É um modelo descritivo e prescritivo, 
+composto por 8 níveis de maturidade, desenvolvido para prover mais autonomia aos setores da Universidade na 
+implantação da Gestão por Processos. Cada nível é composto por critérios, que são avaliados a partir de checklists 
+com itens objetivos de avaliação. Foi também definido um processo de avaliação, com a utilização do aplicativo 
+M3P App. O primeiro ciclo de avaliações foi finalizado em novembro de 2018, no qual 18 setores foram avaliados 
+e 431 artefatos revisados. Com estas ações, observou-se maior conscientização e o engajamento efetivo das pessoas 
+envolvidas.
+"
+58,"
+Este artigo apresenta a integração de uma ferramenta de Business Intelligence (BI) ao Gerenciamento de Processos 
+de Negócio (BPM), por meio de relatórios gráficos e interativos para avaliar e monitorar o desempenho dos processos 
+organizacionais. A ferramenta utilizada para tratamento dos dados foi o Power BI®. Os comandos utilizados no 
+software permitiram encontrar os indicadores críticos dos processos, que foram importantes para a definição dos 
+principais problemas a serem resolvidos. Além disso, os indicadores viabilizaram a tomada de decisão em relação à 
+definição de metas, tais como o tempo máximo de tramitação dos processos.
+Palavras-chave: Business Intelligence; Processos organizacionais; Power BI®.
+"
+59,"
+A crescente demanda por sistemas de gestão eficientes e que atendam as regras de negócios e as reais necessidades dos 
+usuários nas instituições públicas de ensino, tem exigido a busca de novas ferramentas que facilitem o levantamento 
+e a elicitação dos requisitos dos sistemas. Este trabalho relata o uso do mapeamento de processos de negócio na 
+Universidade Federal de Juiz de fora como facilitador no entendimento entre o usuário e os analistas de TI. Os 
+resultados apontam que a partir da adoção desta nova sistemática, os usuários passaram a compreender de forma 
+clara os processos e desta forma permitiu o entendimento com os analistas de TI das especificidades do sistema 
+requisitado. 
+"
+60,"
+Ao adquirir o Sistema Integrado de Gestão Acadêmica (SIGAA) da UFRN, foi necessário realizar diversas 
+modificações para que ele pudesse ser utilizado pela comunidade da UFPB. Apesar de ambas Instituições Federais 
+serem acadêmicas, nem sempre a maneira como elas realizam as atividades são iguais, ou seja, os regulamentos 
+que regem o ensino, a pesquisa e a extensão são distintos. Estas diferenças afetam diretamente a especificação de 
+requisitos do sistema que é utilizado por essas instituições. Este artigo descreve os desafios enfrentados durante a 
+implantação do módulo Graduação e o processo realizado para mapear a relação entre o novo Regulamento dos 
+Cursos de Graduação com os requisitos do SIGAA.
+Palavras-chave: Processos de Negócio; Desenvolvimento de Sistemas; Regulamento de Graduação;
+"
