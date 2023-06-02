@@ -10,7 +10,7 @@ pattern = re.compile(query)
 text = ''
 
 
-with open("sumario.txt", "r") as arquivo:
+with open("../files.txt/sumario.txt", "r") as arquivo:
     text = arquivo.read()
 
 list_items = []
@@ -20,14 +20,14 @@ for i in pattern.findall(text):
 
 
 
-with open(r'sumario_formatado.txt', 'w') as fp:
+with open(r'../files.txt/sumario_formatado.txt', 'w') as fp:
     for item in list_items:
         # write each item on a new line
         fp.write("\n|%s|\n" % item)
     print('Done')
 
 
-with open("sumario_formatado.txt", "r") as arquivo:
+with open("../files.txt/sumario_formatado.txt", "r") as arquivo:
     text = arquivo.read()
 
 
@@ -41,7 +41,7 @@ pattern2 = re.compile(query2)
 text2 = ''
 
 
-with open("sumario_formatado.txt", "r") as arquivo:
+with open("../files.txt/sumario_formatado.txt", "r") as arquivo:
     text2 = arquivo.read()
 
 list_items2 = []
@@ -51,7 +51,7 @@ for i in pattern2.findall(text2):
 
 
 
-with open(r'Autores.txt', 'w') as fp:
+with open(r'../files.txt/Autores.txt', 'w') as fp:
     for item in list_items2:
         # write each item on a new line
         fp.write("\n|%s|\n" % item)
@@ -59,23 +59,23 @@ with open(r'Autores.txt', 'w') as fp:
 
 
 ####################################################################
-    with open("Autores.txt", 'r') as file:
+    with open("../files.txt/Autores.txt", 'r') as file:
               filedata = file.read()  ##.replace('|', '')
              
 print (filedata)  
 text =' '
-with open("Autores.txt", "r") as arquivo:
+with open("../files.txt/Autores.txt", "r") as arquivo:
                   text = arquivo.read().replace('|', '')
                   
 
-with open("Autores.txt", "w") as arquivo:
+with open("../files.txt/Autores.txt", "w") as arquivo:
  arquivo.write(text)
 
 
 print('Done')
 
 
-with open("sumario_formatado.txt", "r") as arquivo:
+with open("../files.txt/sumario_formatado.txt", "r") as arquivo:
     titulos = arquivo.read()
 
 i = 0;
@@ -91,5 +91,5 @@ while(i<len(list_items2)):
    
 
 titulos= titulos.replace("|", "")
-with open("Titulos.txt", "w") as arquivo:
+with open("../files.txt/Titulos.txt", "w") as arquivo:
  arquivo.write(titulos)
